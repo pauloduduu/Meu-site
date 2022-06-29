@@ -11,6 +11,7 @@ body {
     text-align: center;
     width: auto;
     border-radius: 9px;
+    margin: auto;
     
 }
 .nav {
@@ -57,7 +58,7 @@ body {
 .footer {
     text-align: center;
     background-color: #ffffff;
-    margin: 0%;
+    margin: auto;
     
 }
 .pf {

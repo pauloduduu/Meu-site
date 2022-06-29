@@ -3,10 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap');
 
 body {
-    background-color: #d8c488;
+    background-image: url(https://thumbs.dreamstime.com/z/soft-english-letters-numbers-school-office-supplies-blue-background-back-to-stationary-concept-kid-s-set-teaching-170966100.jpg);
 }
 .header {
-    background-color: #ffffff;
+    background-color: #a7cdd2bc;
     padding: 2%;
     text-align: center;
     width: auto;
@@ -37,7 +37,7 @@ body {
     font-size: 20px;
 }
 .main {
-    background-color: #ffffff;
+    background-color: #ffffff49;
     width: 1200px;
     padding: auto;
     margin: auto;
